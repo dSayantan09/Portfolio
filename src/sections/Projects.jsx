@@ -11,7 +11,7 @@ function Projects() {
             <h3>My Portfolio</h3>
             <p><strong>Tech Stack:</strong> React JS</p>
             <p>
-              A professional portfolio and digital resume highlighting my career
+              A professional website highlighting my career
               trajectory & core competencies.
             </p>
             <div className="project-links">
