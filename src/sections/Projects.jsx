@@ -15,7 +15,7 @@ function Projects() {
               trajectory & core competencies.
             </p>
             <div className="project-links">
-              <a href="https://sayantandas-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://github.com/dSayantan09/Portfolio" target="_blank" rel="noopener noreferrer">GitHub</a>
             </div>
           </div>
 
